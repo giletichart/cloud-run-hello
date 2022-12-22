@@ -1,4 +1,4 @@
-# Cloud Run "Hello" container
+# Fork of Cloud Run "Hello" container
 
 This repository contains the source code of a sample Go application that is
 distributed as the public container image (`gcr.io/cloudrun/hello`) used in the
